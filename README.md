@@ -2,7 +2,7 @@
 
 http://d95246ki.beget.tech/
 
-##Плагины:
+## Плагины:
 - Contact Form 7(reCAPTCHA)
 - Custom Field Suite
 - Easy WP SMTP
